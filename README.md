@@ -1,6 +1,7 @@
 # Pecado Games - SoPra 2020
 
 This is a change.
+This is a second change.
 
 ## Introduction
 This project is the server-side implementation of the *Pecado Games Just One* Web Application. See [Pecado Games](https://github.com/PecadoGames) for the whole project.
